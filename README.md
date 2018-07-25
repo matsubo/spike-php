@@ -1,4 +1,4 @@
-Spike for PHP
+SPIKE for PHP
 =============
 
 [![Build Status](https://travis-ci.org/issei-m/spike-php.svg)](https://travis-ci.org/issei-m/spike-php)
